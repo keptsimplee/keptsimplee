@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Precious Uche
+- 👀 I’m interested in transforming complex data into actionable insights to support strategic decision-making.
+- 🌱 I’m currently good at Proficient in statistical analysis, data visualization, and data wrangling, with hands-on expertise in tools such as SQL, Python, Excel, and BI platforms (e.g., Tableau, Power BI).
+- 💞️ Adept at uncovering trends, optimizing processes, and delivering clear, concise reports for both technical and non-technical audiences. Passionate about solving real-world problems through data and committed to enhancing data literacy across teams.
+- 📫 You can reach me on any social media handle provided or through my cell number 
+- 😄 Pronouns
+- ⚡ Fun fact: A single minute on the internet generates over 2.5 million Google searches, 350,000 tweets, and 500 hours of YouTube content.
+
+<!---
+keptsimplee/keptsimplee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
